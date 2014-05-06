@@ -5,7 +5,7 @@
 doc("courses.xml")//Title
 ```
 
-**Q2.** Return last names of all department chairs. 
+**Q2.** Return last names of all department chairs.    
 ```SQL:  
 doc("courses.xml")//Chair/Professor/Last_Name
 ```
